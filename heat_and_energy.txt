@@ -1,0 +1,35 @@
+Initial part to understand and learn to manipulate units in general.
+
+Ex 1. 
+If you are traveling at 60 km per hour, how many meters per second is that? (Choose the answer below that is closest)
+A: 15 m/s
+
+Ex 2.
+How many joules of energy are needed to run a 150 W light bulb for one day? (Choose the answer below that is closest)
+A: 10,000,000 J
+
+Ex 3. 
+Energy calories are analogous to
+A: Joules
+
+Ex 4. 
+What we feel as heat is the energy stored in the
+A: movement of atomic nuclei
+
+Ex 5. 
+A complex molecule carries _____ energy than (as) a simple molecule at the same temperature.
+A: more
+
+Ex 6. 
+If you double the kinetic energy of the atoms in an object, its temperature
+A: double on the Kelvin scale
+
+Optional Problems: How Much Coal to Run a Light Bulb
+
+A joule is an amount of energy and a watt is a rate of energy utilization, defined as 1 W = 1 J/s.
+How many joules of energy are needed to run a 100 W light bulb for one day? Save your answer to use in the next question.
+A: 8640000 J
+
+Coal has about 30E6 J of energy per kg, but a power plant can only use 30% of this energy to produce electricity (i.e. it is 30% efficient).
+How many kilograms of coal need to be burned to light a 100 W light bulb for one day?
+A: 0.96 kg
